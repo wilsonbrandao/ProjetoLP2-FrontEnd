@@ -1,0 +1,385 @@
+{
+  "pageNumber": "X",
+  "pageSize": "P",
+  "totalCount": "T",
+  "users": [
+    {
+      "id": "1",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "sul",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "2",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "norte",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "3",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "norte",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "4",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "nordeste",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "5",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "sul",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "6",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "sudeste",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "7",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "sul",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "8",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "sul",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    },
+    {
+      "id": "9",
+      "type": "laborious",
+      "gender": "m",
+      "name": {
+        "title": "mr",
+        "first": "quirilo",
+        "last": "nascimento"
+      },
+      "location": {
+        "region": "centro-oeste",
+        "street": "680 rua treze ",
+        "city": "varginha",
+        "state": "paraná",
+        "postcode": 37260,
+        "coordinates": {
+          "latitude": "-46.9519",
+          "longitude": "-57.4496"
+        },
+        "timezone": {
+          "offset": "+8:00",
+          "description": "Beijing, Perth, Singapore, Hong Kong"
+        }
+      },
+      "email": "quirilo.nascimento@example.com",
+      "birthday": "1979-01-22T03:35:31Z",
+      "registered": "2005-07-01T13:52:48Z",
+      "telephoneNumbers": [
+        "+556629637520",
+        "+556649535430"
+      ],
+      "mobileNumbers": [
+        "+553270684089",
+        "+553868746434"
+      ],
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/83.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/83.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/83.jpg"
+      },
+      "nationality": "BR"
+    }
+  ]
+}

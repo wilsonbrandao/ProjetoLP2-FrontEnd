@@ -1,0 +1,61 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700&display=swap');
+
+main {
+    margin: auto;
+    padding: 10px 10rem;
+    display: grid;
+    grid-template-columns: 1fr 4fr;
+    color: rgb(110, 110, 110);
+    min-height: 350px;
+    font-family: 'Roboto';
+
+    .formFilter {
+        box-sizing: border-box;
+        max-height: 390px;
+        height: 100%;
+        font-size: .8rem;
+        
+        .filterContent:first-child{
+            margin-bottom: 10px;
+        }
+        
+        
+        .filterContent {
+            box-sizing: border-box;
+            height: 100%;
+            max-height: 50%;
+            background-color: rgb(235, 235, 235);
+            margin-right: 10px;
+            padding: 20px;
+            border-radius: .5rem;
+            
+            
+            legend {
+                font-size: 1rem;
+                font-weight: 500;
+                margin-bottom: 5px;
+            }
+        }
+    }
+
+    .pageSelector {
+        grid-column-start: 2 ;
+        display: flex;
+        justify-content: center;
+
+
+        ul {
+            display: flex;
+            flex-direction: row;
+            margin: 20px 0px 0px 0px;
+
+
+            button {
+                margin: 0px 5px 0px;
+                max-width: 35px;
+                max-height: 35px;
+            }
+        }
+
+    }
+}
