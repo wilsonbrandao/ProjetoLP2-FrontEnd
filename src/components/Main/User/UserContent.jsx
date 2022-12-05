@@ -10,7 +10,8 @@ export function UserContent({ filterUsers }) {
 
     useEffect(() => {
         setUsersArray(customData.users);
-    }, [usersArray])
+        console.log("chamou")
+    }, [])
 
 
     return (
