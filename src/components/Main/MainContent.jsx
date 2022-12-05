@@ -3,6 +3,8 @@ import './MainContentStyle.scss';
 import { UserContent } from './User/UserContent';
 
 export function MainContent() {
+    const [pageNumber, setpageNumber] = useState();
+
     const [filterUser, setFilterUser] = useState({
         especial: false,
         normal: false,
@@ -14,11 +16,13 @@ export function MainContent() {
         sul: false
     })
 
+
     const toggleCheckbox = (item) => {
         const obj = { ...filterUser }
         obj[item] = !obj[item]
         setFilterUser(obj)
     }
+
 
     return (
         <main >
@@ -116,14 +120,14 @@ export function MainContent() {
                     </fieldset>
                 </div>
             </form>
-            <UserContent filterUsers={filterUser} />
+            <UserContent filterUsers={filterUser} pageNumber={pageNumber} />
             <div className='pageSelector'>
                 <ul>
-                    <button>1</button>
-                    <button>2</button>
-                    <button>3</button>
-                    <button>4</button>
-                    <button>5</button>
+                    <button onClick={(event) => setpageNumber(event.currentTarget.textContent)}>1</button>
+                    <button onClick={(event) => setpageNumber(event.currentTarget.textContent)}>2</button>
+                    <button onClick={(event) => setpageNumber(event.currentTarget.textContent)}>3</button>
+                    <button onClick={(event) => setpageNumber(event.currentTarget.textContent)}>4</button>
+                    <button onClick={(event) => setpageNumber(event.currentTarget.textContent)}>5</button>
                 </ul>
             </div>
         </main>
